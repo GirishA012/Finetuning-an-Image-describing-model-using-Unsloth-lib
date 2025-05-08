@@ -1,0 +1,5545 @@
+image,image_details
+anya forger.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Side Ponytail"",
+    ""Hair Color"": ""Pink"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Green"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black Dress""
+}"
+ashito.jpg,"{
+    ""Age"": ""Teenager"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Curly"",
+    ""Hair Color"": ""Brown"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Light Blue Soccer Jersey""
+}"
+ayanakoji.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Brown"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""School uniform""
+}"
+bachira.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Yellow"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Blue Tank Top""
+}"
+barou.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""White tank top with black accents and number 10""
+}"
+brook.jpg,"{
+    ""Age"": ""Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Undetermined"",
+    ""Hair Style"": ""Afro"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""White"",
+    ""Body Type"": ""Skeleton"",
+    ""Dress"": ""Yellow Shirt""
+}"
+bulma.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Blue"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""White T-shirt and Jeans""
+}"
+chad.jpg,"{
+    ""Age"": ""Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Hispanic or Latino"",
+    ""Hair Style"": ""Wavy"",
+    ""Hair Color"": ""Brown"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Floral Hawaiian shirt, white pants""
+}"
+danzai.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Brown"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Suit""
+}"
+deku.jpg,"{
+    ""Age"": ""Child"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Green"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Green"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""School Uniform""
+}"
+draken.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Braids"",
+    ""Hair Color"": ""Blonde"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black and white cardigan""
+}"
+ego jinpachi.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Black"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black Suit""
+}"
+elizabeth.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Long"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Blue"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black Top""
+}"
+enri.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Half-updo"",
+    ""Hair Color"": ""Red"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Red"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Beige Blazer and Dark Blue Shirt""
+}"
+eren.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Ponytail"",
+    ""Hair Color"": ""Brown"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark-colored jacket""
+}"
+erza.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Long"",
+    ""Hair Color"": ""Red"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Red"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Armor""
+}"
+fubuki.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Bob"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Green"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Green Dress""
+}"
+fukuda.jpg,"{
+    ""Age"": ""Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Average"",
+    ""Dress"": ""Dark-colored short-sleeved shirt""
+}"
+gabimaru wife.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Wavy"",
+    ""Hair Color"": ""Blonde"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Purple Kimono""
+}"
+gabimaru.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Yellow"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark Clothing""
+}"
+goku.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Orange Gi""
+}"
+gon.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Green Jacket and Shorts""
+}"
+haruka sakura.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Two-toned"",
+    ""Hair Color"": ""Black and White"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Blue"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark Green Jacket""
+}"
+himeno.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Dark teal"",
+    ""Hair Length"": ""Shoulder Length"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Blue Sleeveless Top""
+}"
+hinata shoyou.jpg,"{
+    ""Age"": ""Teenager"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Orange"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""White T-shirt""
+}"
+hisoka.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Red"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Red"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Sleeveless top and pants""
+}"
+ichigo.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Orange"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black Shinigami Outfit""
+}"
+isagi yoichi.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Purple"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Blue Basketball Jersey""
+}"
+itachi.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Long"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Red"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black Cloak""
+}"
+itadori.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Pink"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark blue jacket with red hoodie""
+}"
+itoshi sae.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short, slightly spiky"",
+    ""Hair Color"": ""Pinkish-purple"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Green"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""White collared shirt""
+}"
+jin mori.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Yellow Jacket""
+}"
+kageyama.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Athletic"",
+    ""Dress"": ""Yellow Vest""
+}"
+kakashi.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Grey"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Green Vest and Dark Mask""
+}"
+kenpachi.jpg,"{
+    ""Age"": ""Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiked"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Average"",
+    ""Dress"": ""Black Shihakush\u014d""
+}"
+killua.jpg,"{
+    ""Age"": ""Young"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Blue"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black Shirt""
+}"
+kushina uzumaki.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Long"",
+    ""Hair Color"": ""Red"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Blue"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""White top and Green bottom""
+}"
+L.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Dark Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""White Shirt and Dark Pants""
+}"
+lelouch.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Purple"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark Robe with high collar""
+}"
+levi.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Suit""
+}"
+light.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Side-swept"",
+    ""Hair Color"": ""Brown"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Beige Suit""
+}"
+ls 11.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Ponytail"",
+    ""Hair Color"": ""Red"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Not visible"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Red Jacket""
+}"
+ls 12.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Ponytail"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Green Jacket""
+}"
+lucy.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Pigtails"",
+    ""Hair Color"": ""Blonde"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Purple sleeveless top""
+}"
+maki zennin.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Ponytail"",
+    ""Hair Color"": ""Dark Green"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Purple Jacket""
+}"
+makima.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Ponytail"",
+    ""Hair Color"": ""Reddish-Brown"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Yellow"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark Coat and collared shirt""
+}"
+mash.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Bangs"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark blue coat and red tie""
+}"
+meliodas.jpg,"{
+    ""Age"": ""Young"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Caucasian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Yellow"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark Vest and white pants""
+}"
+mikasa.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Brown Jacket and Scarf""
+}"
+mikey.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Shoulder Length"",
+    ""Hair Color"": ""Blonde"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Dark"",
+    ""Body Type"": ""Average"",
+    ""Dress"": ""Black top""
+}"
+minato.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Blond"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Blue"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""White Cloak""
+}"
+mitsuri.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Braids"",
+    ""Hair Color"": ""Pink and Green"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Pink Yukata""
+}"
+mob.jpg,"{
+    ""Age"": ""Teenager"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Bowl Cut"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Black"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""School Uniform""
+}"
+nagi.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Dark"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark Bodysuit""
+}"
+nami.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Long and Wavy"",
+    ""Hair Color"": ""Orange"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Green Bikini""
+}"
+naruto.jpg,"{
+    ""Age"": ""Teenager"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Blond"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Blue"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Orange and Black Jacket""
+}"
+natsu.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Pink"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Dark Outfit with Orange Accents""
+}"
+nico robin.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Ponytail"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Coral Sarong and Blue Top""
+}"
+nobara.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Bob"",
+    ""Hair Color"": ""Light Brown"",
+    ""Hair Length"": ""Shoulder Length"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark Blue Uniform""
+}"
+rayleigh.jpg,"{
+    ""Age"": ""Old Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Caucasian"",
+    ""Hair Style"": ""Long"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Mustard Yellow Jacket, Maroon Pants, White Cape""
+}"
+rebecca.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Ponytail"",
+    ""Hair Color"": ""Pink"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Yellow Dress""
+}"
+renji abarai.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Red"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black Haori""
+}"
+roy mustang.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Average"",
+    ""Dress"": ""Military Uniform""
+}"
+sabo.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Caucasian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Blonde"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Blue"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Black Coat, Blue Vest, Light Gray Pants""
+}"
+saitama.jpg,"{
+    ""Age"": ""Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""None"",
+    ""Hair Style"": ""Bald"",
+    ""Hair Color"": ""None"",
+    ""Hair Length"": ""None"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Yellow jumpsuit with cape""
+}"
+saturn gorosei.jpg,"{
+    ""Age"": ""Old"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Caucasian"",
+    ""Hair Style"": ""Dreadlocks"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Large"",
+    ""Dress"": ""Suit and Coat""
+}"
+senku.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Red"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Beige Shirt""
+}"
+shinra.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Red"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black T-shirt""
+}"
+sukuna.jpg,"{
+    ""Age"": ""Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiked"",
+    ""Hair Color"": ""Red"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Red"",
+    ""Body Type"": ""Average"",
+    ""Dress"": ""Pink Robe""
+}"
+sung jinwoo.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Blue"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Brown Jacket with Fur Collar""
+}"
+tanjiro.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Burgundy"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""White Haori""
+}"
+thorfinn.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Caucasian"",
+    ""Hair Style"": ""Short, tied back"",
+    ""Hair Color"": ""Blond"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Trousers""
+}"
+todoroki.jpg,"{
+    ""Age"": ""Teenager"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Half-and-half"",
+    ""Hair Color"": ""White and Red"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Blue"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""School Uniform""
+}"
+tsunade.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Ponytail"",
+    ""Hair Color"": ""Blonde"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Green Robe""
+}"
+umemiya.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Green"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Black jacket with green trim, white shirt""
+}"
+urahara.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Green Yukata and Black Coat""
+}"
+uraraka.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Bob"",
+    ""Hair Color"": ""Brown"",
+    ""Hair Length"": ""Shoulder Length"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""School Uniform""
+}"
+vegeta.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiked"",
+    ""Hair Color"": ""Dark Brown"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Blue Jumpsuit""
+}"
+vivi.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Long"",
+    ""Hair Color"": ""Light Blue"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""White Dress""
+}"
+yamada asaemon.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Ponytail"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black and Red Outfit""
+}"
+yamato.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Long with Horns"",
+    ""Hair Color"": ""White and Teal"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""White and Red Kimono""
+}"
+yor forger.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Long straight"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Red"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Red Sweater""
+}"
+zenitsu.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Yellow"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Hanten""
+}"
+zoro.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Green"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Green Kimono""
+}"
+anya forger_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Side Ponytail"",
+    ""Hair Color"": ""Pink"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Green"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black Dress""
+}"
+anya forger_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Side Ponytail"",
+    ""Hair Color"": ""Pink"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Green"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black Dress""
+}"
+anya forger_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Side Ponytail"",
+    ""Hair Color"": ""Pink"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Green"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black Dress""
+}"
+anya forger_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Side Ponytail"",
+    ""Hair Color"": ""Pink"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Green"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black Dress""
+}"
+anya forger_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Side Ponytail"",
+    ""Hair Color"": ""Pink"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Green"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black Dress""
+}"
+ashito_aug1.jpg,"{
+    ""Age"": ""Teenager"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Curly"",
+    ""Hair Color"": ""Brown"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Light Blue Soccer Jersey""
+}"
+ashito_aug2.jpg,"{
+    ""Age"": ""Teenager"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Curly"",
+    ""Hair Color"": ""Brown"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Light Blue Soccer Jersey""
+}"
+ashito_aug3.jpg,"{
+    ""Age"": ""Teenager"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Curly"",
+    ""Hair Color"": ""Brown"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Light Blue Soccer Jersey""
+}"
+ashito_aug4.jpg,"{
+    ""Age"": ""Teenager"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Curly"",
+    ""Hair Color"": ""Brown"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Light Blue Soccer Jersey""
+}"
+ashito_aug5.jpg,"{
+    ""Age"": ""Teenager"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Curly"",
+    ""Hair Color"": ""Brown"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Light Blue Soccer Jersey""
+}"
+ayanakoji_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Brown"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""School uniform""
+}"
+ayanakoji_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Brown"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""School uniform""
+}"
+ayanakoji_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Brown"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""School uniform""
+}"
+ayanakoji_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Brown"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""School uniform""
+}"
+ayanakoji_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Brown"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""School uniform""
+}"
+bachira_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Yellow"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Blue Tank Top""
+}"
+bachira_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Yellow"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Blue Tank Top""
+}"
+bachira_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Yellow"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Blue Tank Top""
+}"
+bachira_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Yellow"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Blue Tank Top""
+}"
+bachira_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Yellow"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Blue Tank Top""
+}"
+barou_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""White tank top with black accents and number 10""
+}"
+barou_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""White tank top with black accents and number 10""
+}"
+barou_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""White tank top with black accents and number 10""
+}"
+barou_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""White tank top with black accents and number 10""
+}"
+barou_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""White tank top with black accents and number 10""
+}"
+brook_aug1.jpg,"{
+    ""Age"": ""Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Undetermined"",
+    ""Hair Style"": ""Afro"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""White"",
+    ""Body Type"": ""Skeleton"",
+    ""Dress"": ""Yellow Shirt""
+}"
+brook_aug2.jpg,"{
+    ""Age"": ""Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Undetermined"",
+    ""Hair Style"": ""Afro"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""White"",
+    ""Body Type"": ""Skeleton"",
+    ""Dress"": ""Yellow Shirt""
+}"
+brook_aug3.jpg,"{
+    ""Age"": ""Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Undetermined"",
+    ""Hair Style"": ""Afro"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""White"",
+    ""Body Type"": ""Skeleton"",
+    ""Dress"": ""Yellow Shirt""
+}"
+brook_aug4.jpg,"{
+    ""Age"": ""Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Undetermined"",
+    ""Hair Style"": ""Afro"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""White"",
+    ""Body Type"": ""Skeleton"",
+    ""Dress"": ""Yellow Shirt""
+}"
+brook_aug5.jpg,"{
+    ""Age"": ""Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Undetermined"",
+    ""Hair Style"": ""Afro"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""White"",
+    ""Body Type"": ""Skeleton"",
+    ""Dress"": ""Yellow Shirt""
+}"
+bulma_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Blue"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""White T-shirt and Jeans""
+}"
+bulma_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Blue"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""White T-shirt and Jeans""
+}"
+bulma_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Blue"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""White T-shirt and Jeans""
+}"
+bulma_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Blue"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""White T-shirt and Jeans""
+}"
+bulma_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Blue"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""White T-shirt and Jeans""
+}"
+chad_aug1.jpg,"{
+    ""Age"": ""Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Hispanic or Latino"",
+    ""Hair Style"": ""Wavy"",
+    ""Hair Color"": ""Brown"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Floral Hawaiian shirt, white pants""
+}"
+chad_aug2.jpg,"{
+    ""Age"": ""Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Hispanic or Latino"",
+    ""Hair Style"": ""Wavy"",
+    ""Hair Color"": ""Brown"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Floral Hawaiian shirt, white pants""
+}"
+chad_aug3.jpg,"{
+    ""Age"": ""Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Hispanic or Latino"",
+    ""Hair Style"": ""Wavy"",
+    ""Hair Color"": ""Brown"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Floral Hawaiian shirt, white pants""
+}"
+chad_aug4.jpg,"{
+    ""Age"": ""Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Hispanic or Latino"",
+    ""Hair Style"": ""Wavy"",
+    ""Hair Color"": ""Brown"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Floral Hawaiian shirt, white pants""
+}"
+chad_aug5.jpg,"{
+    ""Age"": ""Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Hispanic or Latino"",
+    ""Hair Style"": ""Wavy"",
+    ""Hair Color"": ""Brown"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Floral Hawaiian shirt, white pants""
+}"
+danzai_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Brown"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Suit""
+}"
+danzai_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Brown"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Suit""
+}"
+danzai_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Brown"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Suit""
+}"
+danzai_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Brown"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Suit""
+}"
+danzai_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Brown"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Suit""
+}"
+deku_aug1.jpg,"{
+    ""Age"": ""Child"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Green"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Green"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""School Uniform""
+}"
+deku_aug2.jpg,"{
+    ""Age"": ""Child"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Green"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Green"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""School Uniform""
+}"
+deku_aug3.jpg,"{
+    ""Age"": ""Child"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Green"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Green"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""School Uniform""
+}"
+deku_aug4.jpg,"{
+    ""Age"": ""Child"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Green"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Green"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""School Uniform""
+}"
+deku_aug5.jpg,"{
+    ""Age"": ""Child"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Green"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Green"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""School Uniform""
+}"
+draken_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Braids"",
+    ""Hair Color"": ""Blonde"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black and white cardigan""
+}"
+draken_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Braids"",
+    ""Hair Color"": ""Blonde"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black and white cardigan""
+}"
+draken_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Braids"",
+    ""Hair Color"": ""Blonde"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black and white cardigan""
+}"
+draken_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Braids"",
+    ""Hair Color"": ""Blonde"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black and white cardigan""
+}"
+draken_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Braids"",
+    ""Hair Color"": ""Blonde"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black and white cardigan""
+}"
+ego jinpachi_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Black"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black Suit""
+}"
+ego jinpachi_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Black"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black Suit""
+}"
+ego jinpachi_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Black"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black Suit""
+}"
+ego jinpachi_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Black"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black Suit""
+}"
+ego jinpachi_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Black"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black Suit""
+}"
+elizabeth_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Long"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Blue"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black Top""
+}"
+elizabeth_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Long"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Blue"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black Top""
+}"
+elizabeth_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Long"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Blue"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black Top""
+}"
+elizabeth_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Long"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Blue"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black Top""
+}"
+elizabeth_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Long"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Blue"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black Top""
+}"
+enri_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Half-updo"",
+    ""Hair Color"": ""Red"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Red"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Beige Blazer and Dark Blue Shirt""
+}"
+enri_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Half-updo"",
+    ""Hair Color"": ""Red"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Red"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Beige Blazer and Dark Blue Shirt""
+}"
+enri_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Half-updo"",
+    ""Hair Color"": ""Red"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Red"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Beige Blazer and Dark Blue Shirt""
+}"
+enri_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Half-updo"",
+    ""Hair Color"": ""Red"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Red"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Beige Blazer and Dark Blue Shirt""
+}"
+enri_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Half-updo"",
+    ""Hair Color"": ""Red"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Red"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Beige Blazer and Dark Blue Shirt""
+}"
+eren_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Ponytail"",
+    ""Hair Color"": ""Brown"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark-colored jacket""
+}"
+eren_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Ponytail"",
+    ""Hair Color"": ""Brown"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark-colored jacket""
+}"
+eren_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Ponytail"",
+    ""Hair Color"": ""Brown"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark-colored jacket""
+}"
+eren_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Ponytail"",
+    ""Hair Color"": ""Brown"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark-colored jacket""
+}"
+eren_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Ponytail"",
+    ""Hair Color"": ""Brown"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark-colored jacket""
+}"
+erza_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Long"",
+    ""Hair Color"": ""Red"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Red"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Armor""
+}"
+erza_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Long"",
+    ""Hair Color"": ""Red"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Red"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Armor""
+}"
+erza_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Long"",
+    ""Hair Color"": ""Red"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Red"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Armor""
+}"
+erza_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Long"",
+    ""Hair Color"": ""Red"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Red"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Armor""
+}"
+erza_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Long"",
+    ""Hair Color"": ""Red"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Red"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Armor""
+}"
+fubuki_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Bob"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Green"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Green Dress""
+}"
+fubuki_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Bob"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Green"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Green Dress""
+}"
+fubuki_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Bob"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Green"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Green Dress""
+}"
+fubuki_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Bob"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Green"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Green Dress""
+}"
+fubuki_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Bob"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Green"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Green Dress""
+}"
+fukuda_aug1.jpg,"{
+    ""Age"": ""Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Average"",
+    ""Dress"": ""Dark-colored short-sleeved shirt""
+}"
+fukuda_aug2.jpg,"{
+    ""Age"": ""Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Average"",
+    ""Dress"": ""Dark-colored short-sleeved shirt""
+}"
+fukuda_aug3.jpg,"{
+    ""Age"": ""Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Average"",
+    ""Dress"": ""Dark-colored short-sleeved shirt""
+}"
+fukuda_aug4.jpg,"{
+    ""Age"": ""Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Average"",
+    ""Dress"": ""Dark-colored short-sleeved shirt""
+}"
+fukuda_aug5.jpg,"{
+    ""Age"": ""Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Average"",
+    ""Dress"": ""Dark-colored short-sleeved shirt""
+}"
+gabimaru wife_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Wavy"",
+    ""Hair Color"": ""Blonde"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Purple Kimono""
+}"
+gabimaru wife_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Wavy"",
+    ""Hair Color"": ""Blonde"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Purple Kimono""
+}"
+gabimaru wife_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Wavy"",
+    ""Hair Color"": ""Blonde"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Purple Kimono""
+}"
+gabimaru wife_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Wavy"",
+    ""Hair Color"": ""Blonde"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Purple Kimono""
+}"
+gabimaru wife_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Wavy"",
+    ""Hair Color"": ""Blonde"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Purple Kimono""
+}"
+gabimaru_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Yellow"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark Clothing""
+}"
+gabimaru_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Yellow"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark Clothing""
+}"
+gabimaru_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Yellow"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark Clothing""
+}"
+gabimaru_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Yellow"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark Clothing""
+}"
+gabimaru_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Yellow"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark Clothing""
+}"
+goku_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Orange Gi""
+}"
+goku_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Orange Gi""
+}"
+goku_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Orange Gi""
+}"
+goku_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Orange Gi""
+}"
+goku_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Orange Gi""
+}"
+gon_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Green Jacket and Shorts""
+}"
+gon_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Green Jacket and Shorts""
+}"
+gon_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Green Jacket and Shorts""
+}"
+gon_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Green Jacket and Shorts""
+}"
+gon_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Green Jacket and Shorts""
+}"
+haruka sakura_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Two-toned"",
+    ""Hair Color"": ""Black and White"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Blue"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark Green Jacket""
+}"
+haruka sakura_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Two-toned"",
+    ""Hair Color"": ""Black and White"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Blue"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark Green Jacket""
+}"
+haruka sakura_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Two-toned"",
+    ""Hair Color"": ""Black and White"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Blue"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark Green Jacket""
+}"
+haruka sakura_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Two-toned"",
+    ""Hair Color"": ""Black and White"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Blue"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark Green Jacket""
+}"
+haruka sakura_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Two-toned"",
+    ""Hair Color"": ""Black and White"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Blue"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark Green Jacket""
+}"
+himeno_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Dark teal"",
+    ""Hair Length"": ""Shoulder Length"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Blue Sleeveless Top""
+}"
+himeno_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Dark teal"",
+    ""Hair Length"": ""Shoulder Length"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Blue Sleeveless Top""
+}"
+himeno_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Dark teal"",
+    ""Hair Length"": ""Shoulder Length"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Blue Sleeveless Top""
+}"
+himeno_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Dark teal"",
+    ""Hair Length"": ""Shoulder Length"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Blue Sleeveless Top""
+}"
+himeno_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Dark teal"",
+    ""Hair Length"": ""Shoulder Length"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Blue Sleeveless Top""
+}"
+hinata shoyou_aug1.jpg,"{
+    ""Age"": ""Teenager"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Orange"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""White T-shirt""
+}"
+hinata shoyou_aug2.jpg,"{
+    ""Age"": ""Teenager"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Orange"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""White T-shirt""
+}"
+hinata shoyou_aug3.jpg,"{
+    ""Age"": ""Teenager"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Orange"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""White T-shirt""
+}"
+hinata shoyou_aug4.jpg,"{
+    ""Age"": ""Teenager"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Orange"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""White T-shirt""
+}"
+hinata shoyou_aug5.jpg,"{
+    ""Age"": ""Teenager"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Orange"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""White T-shirt""
+}"
+hisoka_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Red"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Red"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Sleeveless top and pants""
+}"
+hisoka_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Red"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Red"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Sleeveless top and pants""
+}"
+hisoka_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Red"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Red"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Sleeveless top and pants""
+}"
+hisoka_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Red"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Red"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Sleeveless top and pants""
+}"
+hisoka_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Red"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Red"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Sleeveless top and pants""
+}"
+ichigo_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Orange"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black Shinigami Outfit""
+}"
+ichigo_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Orange"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black Shinigami Outfit""
+}"
+ichigo_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Orange"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black Shinigami Outfit""
+}"
+ichigo_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Orange"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black Shinigami Outfit""
+}"
+ichigo_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Orange"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black Shinigami Outfit""
+}"
+isagi yoichi_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Purple"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Blue Basketball Jersey""
+}"
+isagi yoichi_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Purple"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Blue Basketball Jersey""
+}"
+isagi yoichi_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Purple"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Blue Basketball Jersey""
+}"
+isagi yoichi_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Purple"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Blue Basketball Jersey""
+}"
+isagi yoichi_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Purple"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Blue Basketball Jersey""
+}"
+itachi_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Long"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Red"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black Cloak""
+}"
+itachi_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Long"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Red"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black Cloak""
+}"
+itachi_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Long"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Red"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black Cloak""
+}"
+itachi_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Long"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Red"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black Cloak""
+}"
+itachi_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Long"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Red"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black Cloak""
+}"
+itadori_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Pink"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark blue jacket with red hoodie""
+}"
+itadori_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Pink"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark blue jacket with red hoodie""
+}"
+itadori_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Pink"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark blue jacket with red hoodie""
+}"
+itadori_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Pink"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark blue jacket with red hoodie""
+}"
+itadori_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Pink"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark blue jacket with red hoodie""
+}"
+itoshi sae_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short, slightly spiky"",
+    ""Hair Color"": ""Pinkish-purple"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Green"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""White collared shirt""
+}"
+itoshi sae_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short, slightly spiky"",
+    ""Hair Color"": ""Pinkish-purple"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Green"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""White collared shirt""
+}"
+itoshi sae_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short, slightly spiky"",
+    ""Hair Color"": ""Pinkish-purple"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Green"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""White collared shirt""
+}"
+itoshi sae_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short, slightly spiky"",
+    ""Hair Color"": ""Pinkish-purple"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Green"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""White collared shirt""
+}"
+itoshi sae_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short, slightly spiky"",
+    ""Hair Color"": ""Pinkish-purple"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Green"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""White collared shirt""
+}"
+jin mori_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Yellow Jacket""
+}"
+jin mori_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Yellow Jacket""
+}"
+jin mori_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Yellow Jacket""
+}"
+jin mori_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Yellow Jacket""
+}"
+jin mori_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Yellow Jacket""
+}"
+kageyama_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Athletic"",
+    ""Dress"": ""Yellow Vest""
+}"
+kageyama_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Athletic"",
+    ""Dress"": ""Yellow Vest""
+}"
+kageyama_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Athletic"",
+    ""Dress"": ""Yellow Vest""
+}"
+kageyama_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Athletic"",
+    ""Dress"": ""Yellow Vest""
+}"
+kageyama_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Athletic"",
+    ""Dress"": ""Yellow Vest""
+}"
+kakashi_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Grey"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Green Vest and Dark Mask""
+}"
+kakashi_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Grey"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Green Vest and Dark Mask""
+}"
+kakashi_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Grey"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Green Vest and Dark Mask""
+}"
+kakashi_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Grey"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Green Vest and Dark Mask""
+}"
+kakashi_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Grey"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Green Vest and Dark Mask""
+}"
+kenpachi_aug1.jpg,"{
+    ""Age"": ""Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiked"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Average"",
+    ""Dress"": ""Black Shihakush\u014d""
+}"
+kenpachi_aug2.jpg,"{
+    ""Age"": ""Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiked"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Average"",
+    ""Dress"": ""Black Shihakush\u014d""
+}"
+kenpachi_aug3.jpg,"{
+    ""Age"": ""Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiked"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Average"",
+    ""Dress"": ""Black Shihakush\u014d""
+}"
+kenpachi_aug4.jpg,"{
+    ""Age"": ""Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiked"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Average"",
+    ""Dress"": ""Black Shihakush\u014d""
+}"
+kenpachi_aug5.jpg,"{
+    ""Age"": ""Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiked"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Average"",
+    ""Dress"": ""Black Shihakush\u014d""
+}"
+killua_aug1.jpg,"{
+    ""Age"": ""Young"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Blue"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black Shirt""
+}"
+killua_aug2.jpg,"{
+    ""Age"": ""Young"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Blue"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black Shirt""
+}"
+killua_aug3.jpg,"{
+    ""Age"": ""Young"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Blue"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black Shirt""
+}"
+killua_aug4.jpg,"{
+    ""Age"": ""Young"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Blue"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black Shirt""
+}"
+killua_aug5.jpg,"{
+    ""Age"": ""Young"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Blue"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black Shirt""
+}"
+kushina uzumaki_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Long"",
+    ""Hair Color"": ""Red"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Blue"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""White top and Green bottom""
+}"
+kushina uzumaki_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Long"",
+    ""Hair Color"": ""Red"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Blue"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""White top and Green bottom""
+}"
+kushina uzumaki_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Long"",
+    ""Hair Color"": ""Red"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Blue"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""White top and Green bottom""
+}"
+kushina uzumaki_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Long"",
+    ""Hair Color"": ""Red"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Blue"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""White top and Green bottom""
+}"
+kushina uzumaki_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Long"",
+    ""Hair Color"": ""Red"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Blue"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""White top and Green bottom""
+}"
+L_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Dark Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""White Shirt and Dark Pants""
+}"
+L_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Dark Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""White Shirt and Dark Pants""
+}"
+L_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Dark Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""White Shirt and Dark Pants""
+}"
+L_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Dark Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""White Shirt and Dark Pants""
+}"
+L_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Dark Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""White Shirt and Dark Pants""
+}"
+lelouch_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Purple"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark Robe with high collar""
+}"
+lelouch_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Purple"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark Robe with high collar""
+}"
+lelouch_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Purple"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark Robe with high collar""
+}"
+lelouch_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Purple"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark Robe with high collar""
+}"
+lelouch_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Purple"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark Robe with high collar""
+}"
+levi_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Suit""
+}"
+levi_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Suit""
+}"
+levi_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Suit""
+}"
+levi_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Suit""
+}"
+levi_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Suit""
+}"
+light_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Side-swept"",
+    ""Hair Color"": ""Brown"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Beige Suit""
+}"
+light_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Side-swept"",
+    ""Hair Color"": ""Brown"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Beige Suit""
+}"
+light_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Side-swept"",
+    ""Hair Color"": ""Brown"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Beige Suit""
+}"
+light_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Side-swept"",
+    ""Hair Color"": ""Brown"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Beige Suit""
+}"
+light_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Side-swept"",
+    ""Hair Color"": ""Brown"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Beige Suit""
+}"
+ls 11_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Ponytail"",
+    ""Hair Color"": ""Red"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Not visible"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Red Jacket""
+}"
+ls 11_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Ponytail"",
+    ""Hair Color"": ""Red"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Not visible"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Red Jacket""
+}"
+ls 11_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Ponytail"",
+    ""Hair Color"": ""Red"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Not visible"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Red Jacket""
+}"
+ls 11_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Ponytail"",
+    ""Hair Color"": ""Red"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Not visible"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Red Jacket""
+}"
+ls 11_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Ponytail"",
+    ""Hair Color"": ""Red"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Not visible"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Red Jacket""
+}"
+ls 12_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Ponytail"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Green Jacket""
+}"
+ls 12_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Ponytail"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Green Jacket""
+}"
+ls 12_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Ponytail"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Green Jacket""
+}"
+ls 12_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Ponytail"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Green Jacket""
+}"
+ls 12_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Ponytail"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Green Jacket""
+}"
+lucy_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Pigtails"",
+    ""Hair Color"": ""Blonde"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Purple sleeveless top""
+}"
+lucy_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Pigtails"",
+    ""Hair Color"": ""Blonde"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Purple sleeveless top""
+}"
+lucy_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Pigtails"",
+    ""Hair Color"": ""Blonde"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Purple sleeveless top""
+}"
+lucy_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Pigtails"",
+    ""Hair Color"": ""Blonde"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Purple sleeveless top""
+}"
+lucy_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Pigtails"",
+    ""Hair Color"": ""Blonde"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Purple sleeveless top""
+}"
+maki zennin_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Ponytail"",
+    ""Hair Color"": ""Dark Green"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Purple Jacket""
+}"
+maki zennin_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Ponytail"",
+    ""Hair Color"": ""Dark Green"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Purple Jacket""
+}"
+maki zennin_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Ponytail"",
+    ""Hair Color"": ""Dark Green"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Purple Jacket""
+}"
+maki zennin_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Ponytail"",
+    ""Hair Color"": ""Dark Green"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Purple Jacket""
+}"
+maki zennin_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Ponytail"",
+    ""Hair Color"": ""Dark Green"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Purple Jacket""
+}"
+makima_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Ponytail"",
+    ""Hair Color"": ""Reddish-Brown"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Yellow"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark Coat and collared shirt""
+}"
+makima_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Ponytail"",
+    ""Hair Color"": ""Reddish-Brown"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Yellow"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark Coat and collared shirt""
+}"
+makima_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Ponytail"",
+    ""Hair Color"": ""Reddish-Brown"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Yellow"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark Coat and collared shirt""
+}"
+makima_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Ponytail"",
+    ""Hair Color"": ""Reddish-Brown"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Yellow"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark Coat and collared shirt""
+}"
+makima_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Ponytail"",
+    ""Hair Color"": ""Reddish-Brown"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Yellow"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark Coat and collared shirt""
+}"
+mash_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Bangs"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark blue coat and red tie""
+}"
+mash_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Bangs"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark blue coat and red tie""
+}"
+mash_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Bangs"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark blue coat and red tie""
+}"
+mash_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Bangs"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark blue coat and red tie""
+}"
+mash_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Bangs"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark blue coat and red tie""
+}"
+meliodas_aug1.jpg,"{
+    ""Age"": ""Young"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Caucasian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Yellow"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark Vest and white pants""
+}"
+meliodas_aug2.jpg,"{
+    ""Age"": ""Young"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Caucasian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Yellow"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark Vest and white pants""
+}"
+meliodas_aug3.jpg,"{
+    ""Age"": ""Young"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Caucasian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Yellow"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark Vest and white pants""
+}"
+meliodas_aug4.jpg,"{
+    ""Age"": ""Young"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Caucasian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Yellow"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark Vest and white pants""
+}"
+meliodas_aug5.jpg,"{
+    ""Age"": ""Young"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Caucasian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Yellow"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark Vest and white pants""
+}"
+mikasa_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Brown Jacket and Scarf""
+}"
+mikasa_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Brown Jacket and Scarf""
+}"
+mikasa_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Brown Jacket and Scarf""
+}"
+mikasa_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Brown Jacket and Scarf""
+}"
+mikasa_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Brown Jacket and Scarf""
+}"
+mikey_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Shoulder Length"",
+    ""Hair Color"": ""Blonde"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Dark"",
+    ""Body Type"": ""Average"",
+    ""Dress"": ""Black top""
+}"
+mikey_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Shoulder Length"",
+    ""Hair Color"": ""Blonde"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Dark"",
+    ""Body Type"": ""Average"",
+    ""Dress"": ""Black top""
+}"
+mikey_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Shoulder Length"",
+    ""Hair Color"": ""Blonde"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Dark"",
+    ""Body Type"": ""Average"",
+    ""Dress"": ""Black top""
+}"
+mikey_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Shoulder Length"",
+    ""Hair Color"": ""Blonde"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Dark"",
+    ""Body Type"": ""Average"",
+    ""Dress"": ""Black top""
+}"
+mikey_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Shoulder Length"",
+    ""Hair Color"": ""Blonde"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Dark"",
+    ""Body Type"": ""Average"",
+    ""Dress"": ""Black top""
+}"
+minato_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Blond"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Blue"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""White Cloak""
+}"
+minato_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Blond"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Blue"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""White Cloak""
+}"
+minato_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Blond"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Blue"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""White Cloak""
+}"
+minato_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Blond"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Blue"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""White Cloak""
+}"
+minato_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Blond"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Blue"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""White Cloak""
+}"
+mitsuri_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Braids"",
+    ""Hair Color"": ""Pink and Green"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Pink Yukata""
+}"
+mitsuri_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Braids"",
+    ""Hair Color"": ""Pink and Green"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Pink Yukata""
+}"
+mitsuri_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Braids"",
+    ""Hair Color"": ""Pink and Green"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Pink Yukata""
+}"
+mitsuri_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Braids"",
+    ""Hair Color"": ""Pink and Green"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Pink Yukata""
+}"
+mitsuri_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Braids"",
+    ""Hair Color"": ""Pink and Green"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Pink Yukata""
+}"
+mob_aug1.jpg,"{
+    ""Age"": ""Teenager"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Bowl Cut"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Black"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""School Uniform""
+}"
+mob_aug2.jpg,"{
+    ""Age"": ""Teenager"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Bowl Cut"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Black"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""School Uniform""
+}"
+mob_aug3.jpg,"{
+    ""Age"": ""Teenager"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Bowl Cut"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Black"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""School Uniform""
+}"
+mob_aug4.jpg,"{
+    ""Age"": ""Teenager"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Bowl Cut"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Black"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""School Uniform""
+}"
+mob_aug5.jpg,"{
+    ""Age"": ""Teenager"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Bowl Cut"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Black"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""School Uniform""
+}"
+nagi_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Dark"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark Bodysuit""
+}"
+nagi_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Dark"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark Bodysuit""
+}"
+nagi_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Dark"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark Bodysuit""
+}"
+nagi_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Dark"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark Bodysuit""
+}"
+nagi_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Dark"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark Bodysuit""
+}"
+nami_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Long and Wavy"",
+    ""Hair Color"": ""Orange"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Green Bikini""
+}"
+nami_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Long and Wavy"",
+    ""Hair Color"": ""Orange"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Green Bikini""
+}"
+nami_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Long and Wavy"",
+    ""Hair Color"": ""Orange"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Green Bikini""
+}"
+nami_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Long and Wavy"",
+    ""Hair Color"": ""Orange"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Green Bikini""
+}"
+nami_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Long and Wavy"",
+    ""Hair Color"": ""Orange"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Green Bikini""
+}"
+naruto_aug1.jpg,"{
+    ""Age"": ""Teenager"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Blond"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Blue"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Orange and Black Jacket""
+}"
+naruto_aug2.jpg,"{
+    ""Age"": ""Teenager"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Blond"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Blue"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Orange and Black Jacket""
+}"
+naruto_aug3.jpg,"{
+    ""Age"": ""Teenager"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Blond"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Blue"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Orange and Black Jacket""
+}"
+naruto_aug4.jpg,"{
+    ""Age"": ""Teenager"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Blond"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Blue"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Orange and Black Jacket""
+}"
+naruto_aug5.jpg,"{
+    ""Age"": ""Teenager"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Blond"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Blue"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Orange and Black Jacket""
+}"
+natsu_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Pink"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Dark Outfit with Orange Accents""
+}"
+natsu_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Pink"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Dark Outfit with Orange Accents""
+}"
+natsu_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Pink"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Dark Outfit with Orange Accents""
+}"
+natsu_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Pink"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Dark Outfit with Orange Accents""
+}"
+natsu_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Pink"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Dark Outfit with Orange Accents""
+}"
+nico robin_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Ponytail"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Coral Sarong and Blue Top""
+}"
+nico robin_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Ponytail"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Coral Sarong and Blue Top""
+}"
+nico robin_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Ponytail"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Coral Sarong and Blue Top""
+}"
+nico robin_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Ponytail"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Coral Sarong and Blue Top""
+}"
+nico robin_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Ponytail"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Coral Sarong and Blue Top""
+}"
+nobara_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Bob"",
+    ""Hair Color"": ""Light Brown"",
+    ""Hair Length"": ""Shoulder Length"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark Blue Uniform""
+}"
+nobara_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Bob"",
+    ""Hair Color"": ""Light Brown"",
+    ""Hair Length"": ""Shoulder Length"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark Blue Uniform""
+}"
+nobara_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Bob"",
+    ""Hair Color"": ""Light Brown"",
+    ""Hair Length"": ""Shoulder Length"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark Blue Uniform""
+}"
+nobara_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Bob"",
+    ""Hair Color"": ""Light Brown"",
+    ""Hair Length"": ""Shoulder Length"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark Blue Uniform""
+}"
+nobara_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Bob"",
+    ""Hair Color"": ""Light Brown"",
+    ""Hair Length"": ""Shoulder Length"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Dark Blue Uniform""
+}"
+rayleigh_aug1.jpg,"{
+    ""Age"": ""Old Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Caucasian"",
+    ""Hair Style"": ""Long"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Mustard Yellow Jacket, Maroon Pants, White Cape""
+}"
+rayleigh_aug2.jpg,"{
+    ""Age"": ""Old Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Caucasian"",
+    ""Hair Style"": ""Long"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Mustard Yellow Jacket, Maroon Pants, White Cape""
+}"
+rayleigh_aug3.jpg,"{
+    ""Age"": ""Old Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Caucasian"",
+    ""Hair Style"": ""Long"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Mustard Yellow Jacket, Maroon Pants, White Cape""
+}"
+rayleigh_aug4.jpg,"{
+    ""Age"": ""Old Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Caucasian"",
+    ""Hair Style"": ""Long"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Mustard Yellow Jacket, Maroon Pants, White Cape""
+}"
+rayleigh_aug5.jpg,"{
+    ""Age"": ""Old Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Caucasian"",
+    ""Hair Style"": ""Long"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Mustard Yellow Jacket, Maroon Pants, White Cape""
+}"
+rebecca_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Ponytail"",
+    ""Hair Color"": ""Pink"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Yellow Dress""
+}"
+rebecca_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Ponytail"",
+    ""Hair Color"": ""Pink"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Yellow Dress""
+}"
+rebecca_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Ponytail"",
+    ""Hair Color"": ""Pink"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Yellow Dress""
+}"
+rebecca_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Ponytail"",
+    ""Hair Color"": ""Pink"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Yellow Dress""
+}"
+rebecca_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Ponytail"",
+    ""Hair Color"": ""Pink"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Yellow Dress""
+}"
+renji abarai_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Red"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black Haori""
+}"
+renji abarai_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Red"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black Haori""
+}"
+renji abarai_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Red"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black Haori""
+}"
+renji abarai_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Red"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black Haori""
+}"
+renji abarai_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Red"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black Haori""
+}"
+roy mustang_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Average"",
+    ""Dress"": ""Military Uniform""
+}"
+roy mustang_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Average"",
+    ""Dress"": ""Military Uniform""
+}"
+roy mustang_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Average"",
+    ""Dress"": ""Military Uniform""
+}"
+roy mustang_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Average"",
+    ""Dress"": ""Military Uniform""
+}"
+roy mustang_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Average"",
+    ""Dress"": ""Military Uniform""
+}"
+sabo_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Caucasian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Blonde"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Blue"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Black Coat, Blue Vest, Light Gray Pants""
+}"
+sabo_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Caucasian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Blonde"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Blue"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Black Coat, Blue Vest, Light Gray Pants""
+}"
+sabo_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Caucasian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Blonde"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Blue"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Black Coat, Blue Vest, Light Gray Pants""
+}"
+sabo_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Caucasian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Blonde"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Blue"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Black Coat, Blue Vest, Light Gray Pants""
+}"
+sabo_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Caucasian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Blonde"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Blue"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Black Coat, Blue Vest, Light Gray Pants""
+}"
+saitama_aug1.jpg,"{
+    ""Age"": ""Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""None"",
+    ""Hair Style"": ""Bald"",
+    ""Hair Color"": ""None"",
+    ""Hair Length"": ""None"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Yellow jumpsuit with cape""
+}"
+saitama_aug2.jpg,"{
+    ""Age"": ""Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""None"",
+    ""Hair Style"": ""Bald"",
+    ""Hair Color"": ""None"",
+    ""Hair Length"": ""None"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Yellow jumpsuit with cape""
+}"
+saitama_aug3.jpg,"{
+    ""Age"": ""Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""None"",
+    ""Hair Style"": ""Bald"",
+    ""Hair Color"": ""None"",
+    ""Hair Length"": ""None"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Yellow jumpsuit with cape""
+}"
+saitama_aug4.jpg,"{
+    ""Age"": ""Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""None"",
+    ""Hair Style"": ""Bald"",
+    ""Hair Color"": ""None"",
+    ""Hair Length"": ""None"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Yellow jumpsuit with cape""
+}"
+saitama_aug5.jpg,"{
+    ""Age"": ""Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""None"",
+    ""Hair Style"": ""Bald"",
+    ""Hair Color"": ""None"",
+    ""Hair Length"": ""None"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Yellow jumpsuit with cape""
+}"
+saturn gorosei_aug1.jpg,"{
+    ""Age"": ""Old"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Caucasian"",
+    ""Hair Style"": ""Dreadlocks"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Large"",
+    ""Dress"": ""Suit and Coat""
+}"
+saturn gorosei_aug2.jpg,"{
+    ""Age"": ""Old"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Caucasian"",
+    ""Hair Style"": ""Dreadlocks"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Large"",
+    ""Dress"": ""Suit and Coat""
+}"
+saturn gorosei_aug3.jpg,"{
+    ""Age"": ""Old"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Caucasian"",
+    ""Hair Style"": ""Dreadlocks"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Large"",
+    ""Dress"": ""Suit and Coat""
+}"
+saturn gorosei_aug4.jpg,"{
+    ""Age"": ""Old"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Caucasian"",
+    ""Hair Style"": ""Dreadlocks"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Large"",
+    ""Dress"": ""Suit and Coat""
+}"
+saturn gorosei_aug5.jpg,"{
+    ""Age"": ""Old"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Caucasian"",
+    ""Hair Style"": ""Dreadlocks"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Large"",
+    ""Dress"": ""Suit and Coat""
+}"
+senku_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Red"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Beige Shirt""
+}"
+senku_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Red"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Beige Shirt""
+}"
+senku_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Red"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Beige Shirt""
+}"
+senku_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Red"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Beige Shirt""
+}"
+senku_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Red"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Beige Shirt""
+}"
+shinra_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Red"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black T-shirt""
+}"
+shinra_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Red"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black T-shirt""
+}"
+shinra_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Red"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black T-shirt""
+}"
+shinra_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Red"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black T-shirt""
+}"
+shinra_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Red"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black T-shirt""
+}"
+sukuna_aug1.jpg,"{
+    ""Age"": ""Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiked"",
+    ""Hair Color"": ""Red"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Red"",
+    ""Body Type"": ""Average"",
+    ""Dress"": ""Pink Robe""
+}"
+sukuna_aug2.jpg,"{
+    ""Age"": ""Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiked"",
+    ""Hair Color"": ""Red"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Red"",
+    ""Body Type"": ""Average"",
+    ""Dress"": ""Pink Robe""
+}"
+sukuna_aug3.jpg,"{
+    ""Age"": ""Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiked"",
+    ""Hair Color"": ""Red"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Red"",
+    ""Body Type"": ""Average"",
+    ""Dress"": ""Pink Robe""
+}"
+sukuna_aug4.jpg,"{
+    ""Age"": ""Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiked"",
+    ""Hair Color"": ""Red"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Red"",
+    ""Body Type"": ""Average"",
+    ""Dress"": ""Pink Robe""
+}"
+sukuna_aug5.jpg,"{
+    ""Age"": ""Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiked"",
+    ""Hair Color"": ""Red"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Red"",
+    ""Body Type"": ""Average"",
+    ""Dress"": ""Pink Robe""
+}"
+sung jinwoo_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Blue"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Brown Jacket with Fur Collar""
+}"
+sung jinwoo_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Blue"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Brown Jacket with Fur Collar""
+}"
+sung jinwoo_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Blue"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Brown Jacket with Fur Collar""
+}"
+sung jinwoo_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Blue"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Brown Jacket with Fur Collar""
+}"
+sung jinwoo_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Blue"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Brown Jacket with Fur Collar""
+}"
+tanjiro_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Burgundy"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""White Haori""
+}"
+tanjiro_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Burgundy"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""White Haori""
+}"
+tanjiro_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Burgundy"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""White Haori""
+}"
+tanjiro_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Burgundy"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""White Haori""
+}"
+tanjiro_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Burgundy"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""White Haori""
+}"
+thorfinn_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Caucasian"",
+    ""Hair Style"": ""Short, tied back"",
+    ""Hair Color"": ""Blond"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Trousers""
+}"
+thorfinn_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Caucasian"",
+    ""Hair Style"": ""Short, tied back"",
+    ""Hair Color"": ""Blond"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Trousers""
+}"
+thorfinn_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Caucasian"",
+    ""Hair Style"": ""Short, tied back"",
+    ""Hair Color"": ""Blond"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Trousers""
+}"
+thorfinn_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Caucasian"",
+    ""Hair Style"": ""Short, tied back"",
+    ""Hair Color"": ""Blond"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Trousers""
+}"
+thorfinn_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Caucasian"",
+    ""Hair Style"": ""Short, tied back"",
+    ""Hair Color"": ""Blond"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Trousers""
+}"
+todoroki_aug1.jpg,"{
+    ""Age"": ""Teenager"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Half-and-half"",
+    ""Hair Color"": ""White and Red"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Blue"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""School Uniform""
+}"
+todoroki_aug2.jpg,"{
+    ""Age"": ""Teenager"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Half-and-half"",
+    ""Hair Color"": ""White and Red"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Blue"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""School Uniform""
+}"
+todoroki_aug3.jpg,"{
+    ""Age"": ""Teenager"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Half-and-half"",
+    ""Hair Color"": ""White and Red"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Blue"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""School Uniform""
+}"
+todoroki_aug4.jpg,"{
+    ""Age"": ""Teenager"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Half-and-half"",
+    ""Hair Color"": ""White and Red"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Blue"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""School Uniform""
+}"
+todoroki_aug5.jpg,"{
+    ""Age"": ""Teenager"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Half-and-half"",
+    ""Hair Color"": ""White and Red"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Blue"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""School Uniform""
+}"
+tsunade_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Ponytail"",
+    ""Hair Color"": ""Blonde"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Green Robe""
+}"
+tsunade_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Ponytail"",
+    ""Hair Color"": ""Blonde"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Green Robe""
+}"
+tsunade_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Ponytail"",
+    ""Hair Color"": ""Blonde"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Green Robe""
+}"
+tsunade_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Ponytail"",
+    ""Hair Color"": ""Blonde"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Green Robe""
+}"
+tsunade_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Ponytail"",
+    ""Hair Color"": ""Blonde"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Green Robe""
+}"
+umemiya_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Green"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Black jacket with green trim, white shirt""
+}"
+umemiya_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Green"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Black jacket with green trim, white shirt""
+}"
+umemiya_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Green"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Black jacket with green trim, white shirt""
+}"
+umemiya_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Green"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Black jacket with green trim, white shirt""
+}"
+umemiya_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Green"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Black jacket with green trim, white shirt""
+}"
+urahara_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Green Yukata and Black Coat""
+}"
+urahara_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Green Yukata and Black Coat""
+}"
+urahara_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Green Yukata and Black Coat""
+}"
+urahara_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Green Yukata and Black Coat""
+}"
+urahara_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""White"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Green Yukata and Black Coat""
+}"
+uraraka_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Bob"",
+    ""Hair Color"": ""Brown"",
+    ""Hair Length"": ""Shoulder Length"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""School Uniform""
+}"
+uraraka_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Bob"",
+    ""Hair Color"": ""Brown"",
+    ""Hair Length"": ""Shoulder Length"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""School Uniform""
+}"
+uraraka_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Bob"",
+    ""Hair Color"": ""Brown"",
+    ""Hair Length"": ""Shoulder Length"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""School Uniform""
+}"
+uraraka_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Bob"",
+    ""Hair Color"": ""Brown"",
+    ""Hair Length"": ""Shoulder Length"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""School Uniform""
+}"
+uraraka_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Bob"",
+    ""Hair Color"": ""Brown"",
+    ""Hair Length"": ""Shoulder Length"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""School Uniform""
+}"
+vegeta_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiked"",
+    ""Hair Color"": ""Dark Brown"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Blue Jumpsuit""
+}"
+vegeta_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiked"",
+    ""Hair Color"": ""Dark Brown"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Blue Jumpsuit""
+}"
+vegeta_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiked"",
+    ""Hair Color"": ""Dark Brown"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Blue Jumpsuit""
+}"
+vegeta_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiked"",
+    ""Hair Color"": ""Dark Brown"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Blue Jumpsuit""
+}"
+vegeta_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiked"",
+    ""Hair Color"": ""Dark Brown"",
+    ""Hair Length"": ""Medium"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Blue Jumpsuit""
+}"
+vivi_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Long"",
+    ""Hair Color"": ""Light Blue"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""White Dress""
+}"
+vivi_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Long"",
+    ""Hair Color"": ""Light Blue"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""White Dress""
+}"
+vivi_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Long"",
+    ""Hair Color"": ""Light Blue"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""White Dress""
+}"
+vivi_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Long"",
+    ""Hair Color"": ""Light Blue"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""White Dress""
+}"
+vivi_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Long"",
+    ""Hair Color"": ""Light Blue"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""White Dress""
+}"
+yamada asaemon_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Ponytail"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black and Red Outfit""
+}"
+yamada asaemon_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Ponytail"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black and Red Outfit""
+}"
+yamada asaemon_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Ponytail"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black and Red Outfit""
+}"
+yamada asaemon_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Ponytail"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black and Red Outfit""
+}"
+yamada asaemon_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Ponytail"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Black and Red Outfit""
+}"
+yamato_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Long with Horns"",
+    ""Hair Color"": ""White and Teal"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""White and Red Kimono""
+}"
+yamato_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Long with Horns"",
+    ""Hair Color"": ""White and Teal"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""White and Red Kimono""
+}"
+yamato_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Long with Horns"",
+    ""Hair Color"": ""White and Teal"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""White and Red Kimono""
+}"
+yamato_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Long with Horns"",
+    ""Hair Color"": ""White and Teal"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""White and Red Kimono""
+}"
+yamato_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Long with Horns"",
+    ""Hair Color"": ""White and Teal"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""White and Red Kimono""
+}"
+yor forger_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Long straight"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Red"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Red Sweater""
+}"
+yor forger_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Long straight"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Red"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Red Sweater""
+}"
+yor forger_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Long straight"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Red"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Red Sweater""
+}"
+yor forger_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Long straight"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Red"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Red Sweater""
+}"
+yor forger_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Female"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Long straight"",
+    ""Hair Color"": ""Black"",
+    ""Hair Length"": ""Long"",
+    ""Eye Color"": ""Red"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Red Sweater""
+}"
+zenitsu_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Yellow"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Hanten""
+}"
+zenitsu_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Yellow"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Hanten""
+}"
+zenitsu_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Yellow"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Hanten""
+}"
+zenitsu_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Yellow"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Hanten""
+}"
+zenitsu_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Short"",
+    ""Hair Color"": ""Yellow"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Slim"",
+    ""Dress"": ""Hanten""
+}"
+zoro_aug1.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Green"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Green Kimono""
+}"
+zoro_aug2.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Green"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Green Kimono""
+}"
+zoro_aug3.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Green"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Green Kimono""
+}"
+zoro_aug4.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Green"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Green Kimono""
+}"
+zoro_aug5.jpg,"{
+    ""Age"": ""Young Adult"",
+    ""Gender"": ""Male"",
+    ""Ethnicity"": ""Asian"",
+    ""Hair Style"": ""Spiky"",
+    ""Hair Color"": ""Green"",
+    ""Hair Length"": ""Short"",
+    ""Eye Color"": ""Brown"",
+    ""Body Type"": ""Muscular"",
+    ""Dress"": ""Green Kimono""
+}"
