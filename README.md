@@ -27,6 +27,4 @@ We fine-tuned the **LLaMA 3.2 Vision model** (`unsloth/Llama-3.2-11B-Vision-Inst
 
 After fine-tuning, the model was tested on a **new image not included in the training dataset** to evaluate generalization and performance.
 
-## 🔧 Setup
-
 
